@@ -1,0 +1,23 @@
+{
+  "name": "starter-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/softwarebywright/hello-ci-classroom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/softwarebywright/hello-ci-classroom/issues"
+  },
+  "homepage": "https://github.com/softwarebywright/hello-ci-classroom#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
